@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Althaf/MPLABXProjects/avr-iot-workshop.X/mcc_generated_files/cloud/cloud_service.c</file>
+            <file>file:/C:/Users/Althaf/MPLABXProjects/avr-iot-workshop.X/mcc_generated_files/sensors_handling.c</file>
+            <file>file:/C:/Users/Althaf/MPLABXProjects/avr-iot-workshop.X/mcc_generated_files/src/rtc.c</file>
+            <file>file:/C:/Users/Althaf/MPLABXProjects/avr-iot-workshop.X/main.c</file>
+            <file>file:/C:/Users/Althaf/MPLABXProjects/avr-iot-workshop.X/mcc_generated_files/cloud/mqtt_packetPopulation/mqtt_packetPopulate.c</file>
+            <file>file:/C:/Users/Althaf/MPLABXProjects/avr-iot-workshop.X/mcc_generated_files/src/usart2.c</file>
+            <file>file:/C:/Users/Althaf/MPLABXProjects/avr-iot-workshop.X/mcc_generated_files/drivers/i2c_simple_master.c</file>
+            <file>file:/C:/Users/Althaf/MPLABXProjects/avr-iot-workshop.X/mcc_generated_files/mqtt/mqtt_core/mqtt_core.c</file>
+            <file>file:/C:/Users/Althaf/MPLABXProjects/avr-iot-workshop.X/mcc_generated_files/sensors_handling.h</file>
+            <file>file:/C:/Users/Althaf/MPLABXProjects/avr-iot-workshop.X/mcc_generated_files/application_manager.c</file>
+        </group>
+    </open-files>
+</project-private>
